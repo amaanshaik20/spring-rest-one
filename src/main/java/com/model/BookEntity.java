@@ -15,7 +15,7 @@ public class BookEntity {
 	@Column(name="book_code")
 	private Integer bookCode;
 	
-	private String title;
+//	private String title;
 	private Double price;
 	private String subject;
 	public BookEntity() {
